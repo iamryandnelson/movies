@@ -224,6 +224,17 @@ $(document).ready(function () {
             genre: ["Thriller", "Drama", "Crime"]
         },
         {
+            title: "Anora",
+            id: 1064213,
+            overview: "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
+            runtime: "2 hrs 19 mins",
+            release_date: "October 18, 2024",
+            wikipedia: "Anora",
+            trailer: "p1HxTmV5i7c",
+            poster: "img/anora.jpg",
+            genre: ["Drama", "Comedy", "Romance"]
+        },
+        {
             title: "Any Given Sunday",
             id: 0020,
             overview: "A star quarterback gets knocked out of the game and an unknown third stringer is called in to replace him. The unknown gives a stunning performance and forces the aging coach to reevaluate his game plans and life. A new co-owner/president adds to the pressure of winning. The new owner must prove her self in a male dominated world.",
@@ -1145,6 +1156,17 @@ $(document).ready(function () {
             wikipedia: "Dune_(2021_film)",
             trailer: "8g18jFHCLXk",
             poster: "img/dune.jpg",
+            genre: ["Science Fiction", "Adventure"]
+        },
+        {
+            title: "Dune: Part 2",
+            id: 693134,
+            overview: "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+            runtime: "2 hrs 47 mins",
+            release_date: "March 1, 2024",
+            wikipedia: "Dune:_Part_Two",
+            trailer: "Way9Dexny3w",
+            poster: "img/dune_2.jpg",
             genre: ["Science Fiction", "Adventure"]
         },
         {
